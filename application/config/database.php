@@ -50,7 +50,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'passwd';
+$db['default']['password'] = 'HOLA';
 $db['default']['database'] = 'fusioninvoice';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
